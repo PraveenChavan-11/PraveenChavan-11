@@ -51,7 +51,7 @@ To convert ideas into robust, user-centric digital platforms using strategic eng
 
 **Instagram:** [https://www.instagram.com/_praveenchavan_](https://www.instagram.com/_praveenchavan_)
 
-**WhatsApp:** [+91 9373668855]
+**WhatsApp:** [+91 9373668855](https://api.whatsapp.com/send/?phone=919373668855)
 
 **Open to Work:** Yes — freelance, part-time, and full-time engineering opportunities
 
