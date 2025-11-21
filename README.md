@@ -46,9 +46,13 @@ To convert ideas into robust, user-centric digital platforms using strategic eng
 ## 📬 Connect With Me
 
 **Email:** [praveenchavan1104@gmail.com](mailto:praveenchavan1104@gmail.com)
+
 **LinkedIn:** [https://www.linkedin.com/in/praveen-chavan11/](https://www.linkedin.com/in/praveen-chavan11/)
+
 **Instagram:** [https://www.instagram.com/_praveenchavan_](https://www.instagram.com/_praveenchavan_)
+
 **WhatsApp:** [+91 9373668855]
+
 **Open to Work:** Yes — freelance, part-time, and full-time engineering opportunities
 
 ---
