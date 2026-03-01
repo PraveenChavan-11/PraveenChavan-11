@@ -53,7 +53,7 @@ To convert ideas into robust, user-centric digital platforms using strategic eng
 
 **WhatsApp:** [+91 9373668855](https://api.whatsapp.com/send/?phone=919373668855)
 
-**Open to Work:** Yes — freelance, part-time, and full-time engineering opportunities
+**Open to Work:** Freelance
 
 ---
 
